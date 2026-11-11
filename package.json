@@ -19,7 +19,7 @@
     "gemini-configparser": "^1.0.0",
     "gemini-core": "3.8.3",
     "gemini-coverage": "^2.0.0",
-    "graceful-fs": "^4.1.11",
+    "graceful-fs": "^4.2.11",
     "handlebars": "^4.0.5",
     "inherit": "~2.2.1",
     "js-yaml": "^3.2.5",
